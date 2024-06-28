@@ -1,0 +1,5 @@
+
+*.gz
+*.json
+*.tfrecord
+model_training/data/WFIGS_Incident_Locations_Colorado.csv
