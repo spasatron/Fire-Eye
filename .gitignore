@@ -1,4 +1,7 @@
-
+deep_learning_models/filter_tuning
+deep_learning_models/filter_tuning_inception
+deep_learning_models/filter_tuning_test
+deep_learning_models/submission.mp4
 *.gz
 *.json
 *.tfrecord
